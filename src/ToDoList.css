@@ -1,0 +1,22 @@
+
+.todo-list {
+    margin: auto;
+}
+
+input {
+    border: 1px solid #ccc;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+button {
+    background-color: blue;
+    color: #ccc;
+    border-radius: 3px;
+    width: 80px;
+}
+
+button:hover {
+    background-color: #ccc;
+    color: black;
+}
